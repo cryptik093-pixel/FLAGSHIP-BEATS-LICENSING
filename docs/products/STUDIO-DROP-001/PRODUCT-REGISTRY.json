@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0",
+  "product_id": "OH-PROD-FLAGSHIP-001",
+  "product_name": "FLAGSHIP BEATS | MUSIC PRODUCTION SUITE",
+  "brand": "Omega House Beats",
+  "rights_holder": "Omega House Studio LLC",
+  "classification": {
+    "family": "STUDIO_DROP",
+    "drop_id": "STUDIO-DROP.001",
+    "license_class": "BASIC",
+    "certification": "MVP_CERTIFIED"
+  },
+  "filing": {
+    "status": "CANONICAL",
+    "filed_on": "2026-09-01",
+    "record_type": "PRODUCT_IDENTITY_AND_RIGHTS_REGISTRY"
+  },
+  "content": {
+    "beats": 18,
+    "melodies": true,
+    "drums": true,
+    "stems": true,
+    "midi": true,
+    "secondary_asset_counts": "TO_BE_FROZEN_IN_RELEASE_MANIFEST"
+  },
+  "rights": {
+    "commercial_finished_works": true,
+    "streaming_and_distribution": true,
+    "beat_sales_and_placements": true,
+    "sync_and_audiovisual": true,
+    "live_performance": true,
+    "monetized_content": true,
+    "standalone_source_redistribution": false,
+    "source_resale_or_repackaging": false,
+    "sublicensing_source_assets": false,
+    "competing_product_creation": false,
+    "source_ownership_transfer": false,
+    "exclusive_source_rights": false,
+    "ai_ml_training_or_dataset_use": false,
+    "unmodified_source_content_id_claim": false
+  },
+  "visual_variants": [
+    {
+      "variant_id": "LIGHT",
+      "description": "White/cream packaging with gold, red, and black accents"
+    },
+    {
+      "variant_id": "DARK",
+      "description": "Black packaging with gold, red, and cream accents"
+    }
+  ],
+  "historical_reference": {
+    "beta_product_id": "OH-PROD-FLAGSHIP-BETA",
+    "beta_license_id": "OH-FLAGSHIP-BETA-001",
+    "beta_license_version": "1.0"
+  },
+  "governance": {
+    "historical_license_version_required": true,
+    "product_variant_mapping_persistent": true,
+    "provenance_record_required": true,
+    "license_certificate_support": true
+  }
+}
