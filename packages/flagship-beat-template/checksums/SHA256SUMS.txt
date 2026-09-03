@@ -1,0 +1,2 @@
+# SHA-256 checksums for released binary assets
+# Generate/update this file during release QA.
