@@ -1,0 +1,20 @@
+{
+  "product_id": "OH-PROD-REBELLION-001",
+  "product_name": "REBELLION VOL. ONE | CINEMATIC MELODIES & STEMS",
+  "studio_drop": "STUDIO-DROP.002",
+  "certification": "MVP_CERTIFIED",
+  "brand": "Omega House / Omega House Beats",
+  "rights_holder": "Omega House Studio LLC",
+  "asset_counts": {
+    "stems": 18,
+    "melodies": 20,
+    "midi": 9
+  },
+  "license_document": "docs/rebellion/REBELLION_VOL_ONE_MASTER_PRODUCT_LICENSE.pdf",
+  "visual_assets": [
+    "assets/rebellion/Rebellion_Studio_Drop_002_Box.png",
+    "assets/rebellion/Rebellion_Vol_One_Sample_Pack.png"
+  ],
+  "packaging_status": "READY_FOR_SHOPIFY_ASSET_PLACEMENT",
+  "notes": "Counts and rights are based on the master product license. Final downloadable audio package should be frozen and hashed before customer delivery."
+}
