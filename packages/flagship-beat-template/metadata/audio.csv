@@ -1,0 +1,5 @@
+product_id,asset_role,filename,format,key,bpm,sample_rate_hz,bit_depth,channels,duration_seconds,version
+OHFB-2026-0001,master,REPLACE_MASTER.wav,WAV,F MINOR,140,48000,24,2,0,1.0
+OHFB-2026-0001,preview,REPLACE_PREVIEW.mp3,MP3,F MINOR,140,48000,24,2,0,1.0
+OHFB-2026-0001,stem,REPLACE_STEM_01.wav,WAV,F MINOR,140,48000,24,2,0,1.0
+OHFB-2026-0001,midi,REPLACE_MIDI.mid,MIDI,F MINOR,140,,,,0,1.0

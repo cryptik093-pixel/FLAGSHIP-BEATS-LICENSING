@@ -1,0 +1,5 @@
+product_id,tier,tier_version,license_document,status,delivery_profile
+OHFB-2026-0001,BETA,1.0,approved-license-document-required-before-release,DRAFT,beta
+OHFB-2026-0001,BASIC,1.0,approved-license-document-required-before-release,DRAFT,basic
+OHFB-2026-0001,PREMIUM,1.0,approved-license-document-required-before-release,DRAFT,premium
+OHFB-2026-0001,EXCLUSIVE,1.0,approved-license-document-required-before-release,DRAFT,exclusive

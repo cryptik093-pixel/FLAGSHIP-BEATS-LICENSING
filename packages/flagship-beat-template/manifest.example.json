@@ -1,0 +1,22 @@
+{
+  "package_id": "OHFB-2026-0001",
+  "release_status": "QA",
+  "assets": {
+    "master": "audio/master/",
+    "preview": "audio/preview/",
+    "stems": "audio/stems/",
+    "midi": "midi/",
+    "artwork": "artwork/",
+    "licenses": "licenses/",
+    "docs": "docs/",
+    "checksums": "checksums/SHA256SUMS.txt"
+  },
+  "required": [
+    "beat.json",
+    "metadata/product.csv",
+    "metadata/audio.csv",
+    "metadata/licensing.csv",
+    "README.md",
+    "DELIVERY-CHECKLIST.md"
+  ]
+}
