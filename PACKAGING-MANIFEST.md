@@ -23,7 +23,7 @@ This branch consolidates the canonical documentation and packaging map for the c
 
 ## Binary asset delivery note
 
-The GitHub connector can safely create text files and repository metadata, but the large binary payloads should be transferred through the local Git working copy with Git LFS where appropriate. GitHub recommends Git LFS for large binary files; regular Git blocks files above 100 MiB. citehttps://docs.github.com/en/repositories/working-with-files/managing-large-files/about-git-large-file-storage
+The repository packaging layer contains the canonical paths and release metadata. Large binary payloads should be transferred through the local Git working copy with Git LFS where appropriate. GitHub recommends Git LFS for large binary files, and regular Git blocks files above 100 MiB.
 
 The local staging set prepared for this branch is:
 
