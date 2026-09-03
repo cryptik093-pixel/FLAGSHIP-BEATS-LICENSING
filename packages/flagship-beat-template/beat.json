@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "product_type": "flagship_beat",
+  "brand": "Omega House Beats",
+  "studio": "Omega House Studio LLC",
+  "product_id": "OHFB-2026-0001",
+  "title": "REPLACE_TITLE",
+  "slug": "replace-title",
+  "version": "1.0.0",
+  "status": "DRAFT",
+  "audio": {
+    "key": "F MINOR",
+    "bpm": 140,
+    "time_signature": "4/4",
+    "sample_rate_hz": 48000,
+    "bit_depth": 24,
+    "master_format": "WAV",
+    "preview_format": "MP3",
+    "duration_seconds": 0,
+    "master": "audio/master/OHFB-2026-0001_REPLACE_TITLE_MASTER_FMIN_140_V1.wav",
+    "preview": "audio/preview/OHFB-2026-0001_REPLACE_TITLE_PREVIEW_FMIN_140_V1.mp3"
+  },
+  "delivery": {
+    "stems": true,
+    "midi": true,
+    "artwork": true,
+    "license_document": true,
+    "metadata": true,
+    "checksums": true
+  },
+  "license_tiers": [
+    "BETA",
+    "BASIC",
+    "PREMIUM",
+    "EXCLUSIVE"
+  ],
+  "shopify": {
+    "product_handle": "replace-title",
+    "product_gid": null,
+    "variant_gid": null,
+    "collection": "Flagship Beats",
+    "digital_delivery": true
+  },
+  "rights_reference": {
+    "model": "FLAGSHIP-BEATS-LICENSING",
+    "license_version": "1.0",
+    "legal_document": "approved-license-document-required-before-release"
+  },
+  "integrity": {
+    "checksum_algorithm": "SHA-256",
+    "checksum_file": "checksums/SHA256SUMS.txt"
+  }
+}
